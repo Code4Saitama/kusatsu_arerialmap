@@ -4,4 +4,4 @@
 
 ## 概要
 
-青学古橋先生のGitHub
+青学古橋先生のGitHub[https://github.com/furuhashilab/oam4kusatsu/blob/master/HowToUseThisData.md](https://github.com/furuhashilab/oam4kusatsu/blob/master/HowToUseThisData.md)参照
